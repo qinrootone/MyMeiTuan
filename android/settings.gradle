@@ -1,0 +1,3 @@
+rootProject.name = 'MyMeiTuan'
+
+include ':app'
